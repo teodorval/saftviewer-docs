@@ -1,0 +1,42 @@
+site_name: SAFTViewer User Guide
+site_url: https://teodorval.github.io/saftviewer-docs
+
+theme:
+  name: material
+  language: bg
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+    - scheme: slate
+      primary: indigo
+      accent: blue
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.tabs.link
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.highlight
+
+nav:
+  - Въведение: index.md
+  - Инсталация: installation.md
+  - Импорт на SAF: import-saft.md
+  - Оборотна ведомост: trial-balance.md
+  - Кореспонденции: corresponding-accounts.md
+  - Експорт към Excel: excel-export.md
+  - Филтри: filters.md
+  - Troubleshooting: troubleshooting.md
+  - Release Notes: release-notes.md
