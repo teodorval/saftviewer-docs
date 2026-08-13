@@ -32,11 +32,22 @@ markdown_extensions:
 
 nav:
   - Въведение: index.md
-  - Инсталация: installation.md
-  - Импорт на SAF: import-saft.md
-  - Оборотна ведомост: trial-balance.md
-  - Кореспонденции: corresponding-accounts.md
-  - Експорт към Excel: excel-export.md
-  - Филтри: filters.md
+  - Избор на фирма: firm-selection.md
+  - Главен екран: main-window.md
+
+  - Модули:
+      - Приходни документи: incoming-documents.md
+      - Разходни документи: outgoing-documents.md
+      - Плащания: payments.md
+      - Активи: assets.md
+      - Складови операции: warehouse.md
+      - Справки: reports.md
+      - Данни за фирмата: company-data.md
+      - Сметкоплан: chart-of-accounts.md
+      - Клиенти: clients.md
+      - Доставчици: suppliers.md
+      - Продукти: products.md
+      - Импорт / Експорт: import-export.md
+
   - Troubleshooting: troubleshooting.md
   - Release Notes: release-notes.md
