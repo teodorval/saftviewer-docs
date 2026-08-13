@@ -36,6 +36,7 @@ nav:
   - Главен екран: main-window.md
 
   - Модули:
+      - Осчетоводяване: accounting.md
       - Приходни документи: incoming-documents.md
       - Разходни документи: outgoing-documents.md
       - Плащания: payments.md
