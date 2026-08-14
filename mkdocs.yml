@@ -53,6 +53,8 @@ nav:
   - Екрани:
       - Редакция на сметка: account-edit.md
       - Редакция на клиент: client-edit.md
+      - Редакция на доставчик: supplier-edit.md
+
 
 
   - Troubleshooting: troubleshooting.md
