@@ -49,6 +49,9 @@ nav:
       - Доставчици: suppliers.md
       - Продукти: products.md
       - Импорт / Експорт: import-export.md
+      
+  - Екрани
+      - Редакция на сметка: account-edit.md
 
   - Troubleshooting: troubleshooting.md
   - Release Notes: release-notes.md
