@@ -1,0 +1,23 @@
+{
+    "MkDocs Admonition": {
+        "prefix": "admonition",
+        "body": [
+            "!!! note",
+            "    ${1:Текст тук}"
+        ],
+        "description": "MkDocs Material admonition block"
+    },
+    "MkDocs Tabs": {
+        "prefix": "tabs",
+        "body": [
+            "=== \"Tab 1\"",
+            "",
+            "    ${1:Съдържание}",
+            "",
+            "=== \"Tab 2\"",
+            "",
+            "    ${2:Съдържание}"
+        ],
+        "description": "MkDocs Material tabs"
+    }
+}

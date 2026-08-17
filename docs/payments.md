@@ -3,6 +3,12 @@
 Модулът **Плащания** служи за управление на всички извършени и получени плащания, свързани с приходни и разходни документи.  
 Тук се въвеждат, редактират и осчетоводяват операции по банкови преводи, касови плащания и други финансови транзакции.
 
+![Payments List](img/payments_list.png)
+![Payment Edit 1](img/payment_edit1.png)
+![Payment Edit 2](img/payment_edit2.png)
+![Payment Mechanism](img/Payment_mehanizam.png)
+![Payment Method](img/Payment_metod.png)
+
 ---
 
 ## 🧭 Навигация и контекст

@@ -3,6 +3,12 @@
 Табът **Активи** служи за управление на дълготрайните активи на фирмата — тяхното придобиване, амортизация и счетоводни транзакции.  
 Тук се въвеждат основните данни за всеки актив, както и всички движения, свързани с него.
 
+![Assets List](img/assets_list.png)
+![Asset Edit](img/asset_edit.png)
+![Asset Edit 1](img/asset_edit1.png)
+![Asset Edit 2](img/asset_edit2.png)
+![Assets Report](img/report_assets.png)
+
 ---
 
 ## 🧭 Навигация и контекст

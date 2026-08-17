@@ -61,10 +61,6 @@ nav:
       - Редакция на актив: asset-edit.md
       - Редакция на складова операция: warehouse-edit.md
 
-
-
-
-
-
   - Troubleshooting: troubleshooting.md
   - Release Notes: release-notes.md
+  - Екрани: screenshots.md

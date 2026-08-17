@@ -3,6 +3,10 @@
 Екранът **Избор на фирма** е началната точка на SAFTViewer.  
 Тук потребителят управлява списъка с фирми, конфигурира връзката към SQL сървъра и избира база, с която да работи.
 
+![Firm Selector](img/firm_selector.png)
+![Firm Selector (alt)](img/firm_selector1.png)
+![SQL OK](img/SQL_Ok.png)
+
 ---
 
 ## 📋 Списък с фирми

@@ -3,6 +3,11 @@
 Табът **Осчетоводяване** е централният модул на SAFTViewer, който обединява всички счетоводни операции в един екран.  
 Тук се създават, редактират и записват счетоводни статии, както и свързаните с тях плащания, фактури и активи.
 
+![Ledger Transactions](img/ledger_transactions.png)
+![Journals List](img/journals_list.png)
+![Journal Edit](img/journal_edit.png)
+![Transactions Report](img/report_transactions.png)
+
 ---
 
 ## 🧭 Навигация и контекст
