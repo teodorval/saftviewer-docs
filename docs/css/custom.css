@@ -1,0 +1,27 @@
+/* Скрива текста от заглавието */
+.md-header__title {
+    display: none !important;
+}
+
+/* Увеличава логото и го позиционира по-добре */
+.md-header__button.md-logo img {
+    height: 100px !important;
+    /* можеш да пробваш 120px */
+    width: auto !important;
+    margin-left: 40px;
+    /* отстояние от левия край */
+    margin-top: 10px;
+    /* леко надолу, за да се центрира */
+    vertical-align: middle;
+}
+
+/* Центрира логото в лентата */
+.md-header__inner {
+    align-items: center !important;
+    justify-content: flex-start !important;
+}
+
+/* Скрива иконата за търсене, ако пречи */
+.md-search__input {
+    margin-left: 20px !important;
+}

@@ -1,4 +1,4 @@
-site_name: SAFTViewer User Guide
+site_name: Saf‑t Accounting User Guide
 site_url: https://teodorval.github.io/saftviewer-docs
 
 theme:
@@ -19,9 +19,13 @@ theme:
     - search.suggest
     - content.code.copy
     - content.tabs.link
+extra_javascript:
+  - js/image-zoom.js
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
   - codehilite
   - toc:
       permalink: true
@@ -29,6 +33,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tabbed
   - pymdownx.highlight
+  - pymdownx.extra # ← това активира zoom и кликваеми изображения
 
 nav:
   - Въведение: index.md

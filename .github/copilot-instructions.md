@@ -1,7 +1,7 @@
-# Copilot instructions for SAFTViewer docs
+# Copilot instructions for Saf‑t Accounting docs
 
 ## Scope
-These instructions apply to the documentation project for SAFTViewer and should be followed for edits in Markdown files, navigation configuration, image handling, and related documentation tasks.
+These instructions apply to the documentation project for Saf‑t Accounting and should be followed for edits in Markdown files, navigation configuration, image handling, and related documentation tasks.
 
 ## Writing style
 - Write documentation in Bulgarian by default unless the user explicitly asks otherwise.
@@ -14,7 +14,7 @@ These instructions apply to the documentation project for SAFTViewer and should 
 - Follow the MkDocs structure already used in the repository.
 - Keep page titles and section names consistent with the naming used in the site navigation.
 - Prefer short, action-oriented descriptions for UI screens and workflows.
-- When referencing files or features, match the real SAFTViewer terminology exactly.
+- When referencing files or features, match the real Saf‑t Accounting terminology exactly.
 - Use relative links to existing docs pages when useful.
 
 ## Image & Screenshot handling
@@ -33,7 +33,7 @@ When the user requests a page containing screenshots:
 - Create a new `.md` file inside `docs/`.
 - Add a clear title, e.g.:
 
-  `# Екранни снимки от SAFTViewer`
+  `# Екранни снимки от Saf‑t Accounting`
 
 - Organize screenshots into sections, for example:
 
