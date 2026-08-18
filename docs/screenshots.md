@@ -88,7 +88,7 @@
 ![Ledger Transactions](img/ledger_transactions.png)
 
 ### Журнали
-![Journals List](img/journals_list.png)
+![Journals List](img/chart_of_accounts.png)
 ![Journal Edit](img/journal_edit.png)
 
 ### Справка транзакции
