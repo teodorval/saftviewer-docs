@@ -4,16 +4,16 @@
 Тук се въвеждат основните данни за всеки актив, както и всички движения, свързани с него.
 
 ### 📸 Screenshot — Списък активи
-![Assets List](img/assets_list.png)
+![Assets List](img/assets_list.png){.zoomable}
 
 ### 📸 Screenshot — Редакция на актив
-![Asset Edit](img/asset-edit.png)
+![Asset Edit](img/asset-edit.png){.zoomable}
 
 ### 📸 Screenshot — Редакция на актив (част 1)
-![Asset Edit 1](img/asset-edit1.png)
+![Asset Edit 1](img/asset-edit1.png){.zoomable}
 
 ### 📸 Screenshot — Редакция на актив (част 2)
-![Asset Edit 2](img/asset-edit2.png)
+![Asset Edit 2](img/asset-edit2.png){.zoomable}
 
 ### 📸 Screenshot — Справка активи
 ![Assets Report](img/report_assets.png){.zoomable}
