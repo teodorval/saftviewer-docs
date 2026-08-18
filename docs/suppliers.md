@@ -4,10 +4,10 @@
 Тук се въвеждат, редактират и изтриват записи за контрагенти, които издават фактури или получават плащания.
 
 ### 📸 Screenshot — Списък доставчици
-![Suppliers List](img/suppliers_list.png)
+![Suppliers List](img/suppliers_list.png){.zoomable}
 
 ### 📸 Screenshot — Редакция на доставчик
-![Supplier Edit](img/supplier_edit.png)
+![Supplier Edit](img/supplier_edit.png){.zoomable}
 
 ---
 

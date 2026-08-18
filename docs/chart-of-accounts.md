@@ -4,7 +4,7 @@
 Тук се въвеждат, редактират и управляват сметките, които се използват при осчетоводяване на документи, статии и справки.
 
 ### 📸 Screenshot — Сметкоплан
-![Chart of Accounts](img/chart_of_accounts.png)
+![Chart of Accounts](img/chart_of_accounts.png){.zoomable}
 
 ---
 

@@ -4,7 +4,7 @@
 Тук се въвеждат, редактират и изтриват записи за прехвърляния, доставки, изписвания и други складови транзакции.
 
 ### 📸 Screenshot — Складови операции
-![Warehouse Operations](img/warehouse.png)
+![Warehouse Operations](img/warehouse.png){.zoomable}
 
 ---
 

@@ -4,7 +4,7 @@
 Тук се създават, редактират и записват счетоводни статии, както и свързаните с тях плащания, фактури и активи.
 
 ### 📸 Screenshot — Счетоводни операции
-![Ledger Transactions](img/ledger_transactions.png)
+![Ledger Transactions](img/ledger_transactions.png){.zoomable}
 
 
 

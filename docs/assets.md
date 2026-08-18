@@ -16,7 +16,7 @@
 ![Asset Edit 2](img/asset-edit2.png)
 
 ### 📸 Screenshot — Справка активи
-![Assets Report](img/report_assets.png)
+![Assets Report](img/report_assets.png){.zoomable}
 
 ---
 

@@ -17,7 +17,7 @@ Saf‑t Accounting е настолно приложение за визуали�
 - **Настройки** – отваря конфигурацията за SQL връзка.
 
 ### 📸 Screenshot — Избор на фирма
-![Firm Selector](img/firm_selector.png)
+![Firm Selector](img/firm_selector.png){.zoomable}
 
 ---
 
@@ -34,7 +34,7 @@ Saf‑t Accounting е настолно приложение за визуали�
 Това позволява работа с множество фирми, всяка със собствена база.
 
 ### 📸 Screenshot — SQL настройки
-![SQL OK](img/SQL_Ok.png)
+![SQL OK](img/SQL_Ok.png){.zoomable}
 
 ---
 
@@ -69,7 +69,7 @@ Saf‑t Accounting е настолно приложение за визуали�
 - **Последно действие** – показва лог на последната операция.
 
 ### 📸 Screenshot — Главен екран
-![Main Window](img/main_window.png)
+![Main Window](img/main_window.png){.zoomable}
 
 ---
 

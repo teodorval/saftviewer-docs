@@ -4,7 +4,7 @@
 Тук се извършва зареждане (импорт) на данни от други програми и експортиране на данни към SAF‑T формат, съвместим с изискванията на НАП.
 
 ### 📸 Screenshot — Импорт / Експорт
-![Import / Export](img/Import_Export.png)
+![Import / Export](img/Import_Export.png){.zoomable}
 
 
 

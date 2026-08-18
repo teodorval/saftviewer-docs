@@ -4,7 +4,7 @@
 Тук се въвеждат и редактират данните за фирмата, софтуера и собствеността, които се използват при генериране на SAF‑T файлове и счетоводни отчети.
 
 ### 📸 Screenshot — Данни за фирмата
-![Company Data](img/company_data.png)
+![Company Data](img/company_data.png){.zoomable}
 
 ---
 

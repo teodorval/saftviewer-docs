@@ -4,10 +4,10 @@
 Тук се въвеждат, редактират и осчетоводяват документите, които генерират разходи.
 
 ### 📸 Screenshot — Списък разходни документи
-![Sales Invoice List](img/sales_invoice_list.png)
+![Sales Invoice List](img/sales_invoice_list.png){.zoomable}
 
 ### 📸 Screenshot — Редакция на разходен документ
-![Sales Invoice Edit](img/sales_invoice_edit.png)
+![Sales Invoice Edit](img/sales_invoice_edit.png){.zoomable}
 
 ---
 

@@ -4,10 +4,10 @@
 Тук се въвеждат, редактират и изтриват записи за контрагенти, които получават фактури, плащания или други документи.
 
 ### 📸 Screenshot — Списък клиенти
-![Customers List](img/customers_list.png)
+![Customers List](img/customers_list.png){.zoomable}
 
 ### 📸 Screenshot — Редакция на клиент
-![Customer Edit](img/customer_edit.png)
+![Customer Edit](img/customer_edit.png){.zoomable}
 
 ---
 

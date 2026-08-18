@@ -1,6 +1,10 @@
 site_name: Saf‑t Accounting User Guide
 site_url: https://teodorval.github.io/saftviewer-docs
 
+# КАЗВАМЕ НА MATERIAL, ЧЕ САЙТЪТ Е В ПОДДИРЕКТОРИЯ
+extra:
+  base_url: /saftviewer-docs/
+
 theme:
   name: material
   language: bg
@@ -12,14 +16,16 @@ theme:
       primary: indigo
       accent: blue
   features:
-    - navigation.instant
     - navigation.sections
     - navigation.expand
     - search.highlight
     - search.suggest
     - content.code.copy
     - content.tabs.link
+
+# JS файловете вече ще се изпълняват правилно
 extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/medium-zoom/1.0.6/medium-zoom.min.js
   - js/image-zoom.js
 
 markdown_extensions:
@@ -33,7 +39,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tabbed
   - pymdownx.highlight
-  - pymdownx.extra # ← това активира zoom и кликваеми изображения
+  - pymdownx.extra
 
 nav:
   - Въведение: index.md

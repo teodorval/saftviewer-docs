@@ -4,7 +4,7 @@
 Това е централният хъб на системата, от който потребителят навигира към всички модули, справки и операции.
 
 ### 📸 Screenshot — Главен екран
-![Main Window](img/main_window.png)
+![Main Window](img/main_window.png){.zoomable}
 
 ---
 

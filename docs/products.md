@@ -4,13 +4,13 @@
 Тук се въвеждат, редактират и изтриват записи за продукти, които участват в документи, складови операции и справки.
 
 ### 📸 Screenshot — Списък продукти
-![Products List](img/products_list.png)
+![Products List](img/products_list.png){.zoomable}
 
 ### 📸 Screenshot — Редакция на продукт
-![Product Edit](img/product_edit.png)
+![Product Edit](img/product_edit.png){.zoomable}
 
 ### 📸 Screenshot — Справка продукти
-![Products Report](img/report_products.png)
+![Products Report](img/report_products.png){.zoomable}
 
 ---
 

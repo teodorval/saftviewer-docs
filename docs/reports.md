@@ -4,10 +4,10 @@
 Тук потребителят може да генерира оборотни ведомости, кореспонденции, амортизации и списъци с продукти, както и да експортира данните към Excel.
 
 ### 📸 Screenshot — Меню Справки
-![Reports Menu](img/reports_menu.png)
+![Reports Menu](img/reports_menu.png){.zoomable}
 
 ### 📸 Screenshot — Меню Справки (алтернативен изглед)
-![Reports Menu 2](img/reports_menu2.png)
+![Reports Menu 2](img/reports_menu2.png){.zoomable}
 
 ---
 

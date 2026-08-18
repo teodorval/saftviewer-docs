@@ -4,10 +4,10 @@
 Тук се въвеждат, редактират и осчетоводяват документите, които генерират приходи.
 
 ### 📸 Screenshot — Списък приходни документи
-![Purchase Invoice List](img/purchase_invoice_list.png)
+![Purchase Invoice List](img/purchase_invoice_list.png){.zoomable}
 
 ### 📸 Screenshot — Редакция на приходен документ
-![Purchase Invoice Edit](img/purchase_invoice_edit.png)
+![Purchase Invoice Edit](img/purchase_invoice_edit.png){.zoomable}
 
 ---
 

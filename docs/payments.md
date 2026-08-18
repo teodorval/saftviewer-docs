@@ -4,19 +4,19 @@
 Тук се въвеждат, редактират и осчетоводяват операции по банкови преводи, касови плащания и други финансови транзакции.
 
 ### 📸 Screenshot — Списък плащания
-![Payments List](img/payments_list.png)
+![Payments List](img/payments_list.png){.zoomable}
 
 ### 📸 Screenshot — Редакция на плащане (част 1)
-![Payment Edit 1](img/payment_edit1.png)
+![Payment Edit 1](img/payment_edit1.png){.zoomable}
 
 ### 📸 Screenshot — Редакция на плащане (част 2)
-![Payment Edit 2](img/payment_edit2.png)
+![Payment Edit 2](img/payment_edit2.png){.zoomable}
 
 ### 📸 Screenshot — Механизъм на плащане
-![Payment Mechanism](img/Payment_mehanizam.png)
+![Payment Mechanism](img/Payment_mehanizam.png){.zoomable}
 
 ### 📸 Screenshot — Метод на плащане
-![Payment Method](img/Payment_metod.png)
+![Payment Method](img/Payment_metod.png){.zoomable}
 
 ---
 

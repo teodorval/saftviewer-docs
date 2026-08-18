@@ -4,13 +4,13 @@
 Тук потребителят управлява списъка с фирми, конфигурира връзката към SQL сървъра и избира база, с която да работи.
 
 ### 📸 Screenshot — Избор на фирма
-![Firm Selector](img/firm_selector.png)
+![Firm Selector](img/firm_selector.png){.zoomable}
 
 ### 📸 Screenshot — Избор на фирма (алтернативен изглед)
-![Firm Selector (alt)](img/firm_selector1.png)
+![Firm Selector (alt)](img/firm_selector1.png){.zoomable}
 
 ### 📸 Screenshot — SQL настройки
-![SQL OK](img/SQL_Ok.png)
+![SQL OK](img/SQL_Ok.png){.zoomable}
 
 ---
 
