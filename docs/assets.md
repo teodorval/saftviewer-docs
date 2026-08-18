@@ -7,13 +7,13 @@
 ![Assets List](img/assets_list.png)
 
 ### 📸 Screenshot — Редакция на актив
-![Asset Edit](img/asset_edit.png)
+![Asset Edit](img/asset-edit.png)
 
 ### 📸 Screenshot — Редакция на актив (част 1)
-![Asset Edit 1](img/asset_edit1.png)
+![Asset Edit 1](img/asset-edit1.png)
 
 ### 📸 Screenshot — Редакция на актив (част 2)
-![Asset Edit 2](img/asset_edit2.png)
+![Asset Edit 2](img/asset-edit2.png)
 
 ### 📸 Screenshot — Справка активи
 ![Assets Report](img/report_assets.png)

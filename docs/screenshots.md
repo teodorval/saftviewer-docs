@@ -61,9 +61,9 @@
 ![Assets List](img/assets_list.png)
 
 ### Редакция на актив
-![Asset Edit](img/asset_edit.png)
-![Asset Edit 1](img/asset_edit1.png)
-![Asset Edit 2](img/asset_edit2.png)
+![Asset Edit](img/asset-edit.png)
+![Asset Edit 1](img/asset-edit1.png)
+![Asset Edit 2](img/asset-edit2.png)
 
 ### Справка активи
 ![Assets Report](img/report_assets.png)
@@ -88,8 +88,6 @@
 ![Ledger Transactions](img/ledger_transactions.png)
 
 ### Журнали
-![Journals List](img/chart_of_accounts.png)
-![Journal Edit](img/journal_edit.png)
 
 ### Справка транзакции
 ![Transactions Report](img/report_transactions.png)
